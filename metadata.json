@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dose Certa",
+  "description": "Aplicativo acessivel para idosos (60+) entenderem e tomarem seus medicamentos com acompanhamento familiar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
